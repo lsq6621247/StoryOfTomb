@@ -4,7 +4,7 @@
 "dataUrl": "20200725_Web_StoryOfTomb.data.unityweb",
 "wasmCodeUrl": "20200725_Web_StoryOfTomb.wasm.code.unityweb",
 "wasmFrameworkUrl": "20200725_Web_StoryOfTomb.wasm.framework.unityweb",
-"TOTAL_MEMORY": 268435456,
+"TOTAL_MEMORY": 536870912,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
