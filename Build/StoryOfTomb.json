@@ -1,0 +1,12 @@
+{
+"companyName": "Shiqi Li",
+"productName": "StoryOfTomb",
+"dataUrl": "StoryOfTomb.data.unityweb",
+"wasmCodeUrl": "StoryOfTomb.wasm.code.unityweb",
+"wasmFrameworkUrl": "StoryOfTomb.wasm.framework.unityweb",
+"TOTAL_MEMORY": 67108864,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
